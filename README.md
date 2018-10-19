@@ -10,6 +10,6 @@ Root не нужен
 Самый простой путь. Постаить Termux. Запустить его и вести:
 1. apt update && apt upgrade
 2. apt install curl
-3. curl -LO https://github.com/omeh2003/MetasploitTermux/blob/master/metasploit.sh
+3. curl -LO https://raw.githubusercontent.com/omeh2003/MetasploitTermux/master/metasploit.sh
 4. chmod a+x metasploit.sh
 5. ./metasploit.sh
