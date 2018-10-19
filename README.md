@@ -13,3 +13,6 @@ Root не нужен
 3. curl -LO https://raw.githubusercontent.com/omeh2003/MetasploitTermux/master/metasploit.sh
 4. chmod a+x metasploit.sh
 5. ./metasploit.sh
+
+
+https://www.youtube.com/watch?v=8LROJUUIgv0
